@@ -1,5 +1,8 @@
 # Distributed-Computing-Systems-Project
-分布式计算系统
+分布式计算系统 
+
+##### 参考GitHub：TeraSort benchmark for Spark
+https://github.com/ehiggs/spark-terasort.git
 
 ##### 主要命令及参数：
 
